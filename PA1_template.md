@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+## Author Whit Walters
+## Coursera Replicatable Research 008
 
 
 ## Loading and preprocessing the data
